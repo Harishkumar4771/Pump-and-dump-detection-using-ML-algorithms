@@ -175,4 +175,4 @@ else:
 
 # ── Footer ───────────────────────────────────────────────────
 st.divider()
-st.caption("Built with Scikit-Learn, XGBoost & LightGBM | Data: Binance API | Deployed on Streamlit Cloud")
+st.caption("Built with Scikit-Learn, XGBoost & LightGBM | Data: pycoingecko | Deployed on Streamlit Cloud")
