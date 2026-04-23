@@ -104,6 +104,9 @@ ML models can detect these patterns by learning from abnormal spikes in price an
 This project is for **educational and research purposes only**. It is not intended to be used as financial advice or a trading signal system.
 
 ---
+## Future scopes
+   -This project can be further developed into a NLP project,it checks the opinions and hypes about the cryptocurrency coins on social media.
+   -This can be also extended as a Deep Learning project for better detection and integrate with real time alert system.
 
 ## 👤 Author
 
