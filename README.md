@@ -56,7 +56,7 @@ Pump-and-dump-detection-using-ML-algorithms/
 | Data | pandas, NumPy |
 | ML | scikit-learn, XGBoost |
 | Visualization | matplotlib, seaborn |
-| Data Source | Financial market API (yfinance / custom) |
+| Data Source | PyCoinGecko AI |
 
 ---
 
